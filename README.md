@@ -11,3 +11,8 @@ Of course, you can edit these parameters.
 ### Open in Sublime under Services right-click menu
 
 Right click your project's folder and select the Open in Sublime option. It saves a bunch  of time. The other way is launching Sublime, File->Open->Select Folder.
+
+
+### Open in Terminal under Services right-click menu
+
+Right click your project's folder and select the Open in Terminal option. Simliar to Windows shitf + right click and selecting Open cmd here. It saves a bunch  of time.
